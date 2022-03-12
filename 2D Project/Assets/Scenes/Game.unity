@@ -646,10 +646,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 294761435312106574, guid: 35daca9af1d8eea4fb5bf0111070ebae, type: 3}
-      propertyPath: BulletAmount
-      value: 8
-      objectReference: {fileID: 0}
     - target: {fileID: 294761435735971762, guid: 35daca9af1d8eea4fb5bf0111070ebae, type: 3}
       propertyPath: m_Name
       value: Player

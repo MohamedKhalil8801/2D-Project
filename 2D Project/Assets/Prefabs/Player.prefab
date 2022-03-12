@@ -5077,7 +5077,7 @@ MonoBehaviour:
   ShootSFX: {fileID: 8300000, guid: 1d546cc2687201b4a85183978caf6df2, type: 3}
   Bullet: {fileID: -1986449891989806596, guid: 5fbcf175ed0e4ab41a2566ef7b1dceb3, type: 3}
   ShootFrom: {fileID: 294761434674169178}
-  BulletAmount: 8
+  BulletAmount: 1
   Angle: 10
 --- !u!1 &294761435735971762
 GameObject:
